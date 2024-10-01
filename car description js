@@ -1,6 +1,6 @@
-const carname ="AUDI A5";
+const carname = "AUDI A5";
 const caryear = 2018;
 let carprice = 1100000;
-let available= true;
+let available = true;
 let buyername = null;
 console.log(`Назва: ${carname}, pik ${caryear}, Ціна ${carprice} гривень, Доступ: ${available}, Покупець: ${buyername}`)
